@@ -1,0 +1,11 @@
+i = 1
+j = 7
+
+while i < 10:
+    
+    print("I=%d J=%d"%(i,j))
+    print("I=%d J=%d"%(i,j-1))
+    print("I=%d J=%d"%(i,j-2))
+    
+    i += 2
+    
